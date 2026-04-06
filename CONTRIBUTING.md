@@ -1,6 +1,6 @@
-# Contributing to AI Companion Setup Wizard
+# Contributing to AI Minion Setup Wizard
 
-If you're here, you probably tried the companion.
+If you're here, you probably tried the minion.
 
 And something clicked.
 
@@ -48,7 +48,7 @@ If you want to port it to ChatGPT, Gemini, or anything else:
 
 ### 2. Industry Variants
 
-The base companion is role-agnostic by design.
+The base minion is role-agnostic by design.
 
 But if you've built a version optimized for a specific domain
 (marketing, education, legal, engineering, etc.) —
