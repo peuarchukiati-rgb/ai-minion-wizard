@@ -1,11 +1,11 @@
-# AI Companion Setup Wizard
+# AI Minion Setup Wizard
 ### by Peak Euarchukiati — AI Conductor Methodology
 
 > Most people are using AI wrong.
 >
 > This fixes that.
 >
-> A single `.md` file that turns Claude into a real working companion.
+> A single `.md` file that turns Claude into your personal AI minion.
 > Paste it. Let it run. Watch what happens.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -18,7 +18,7 @@
 
 You stop asking AI questions.
 
-You start building systems with it.
+You start putting it to work.
 
 ---
 
@@ -40,7 +40,7 @@ a way to brief an AI agent completely,
 the same way a mission brief activates a team.
 
 No app. No API. No code.
-Just a file.
+Just a file. And a minion that gets to work.
 
 ---
 
@@ -51,15 +51,15 @@ Just a file.
 3. Paste into a new [Claude](https://claude.ai) conversation
 4. Say **"Activate"** — or just start talking
 
-That's it.
+That's it. Your minion is ready.
 
 ---
 
 ## What Happens
 
-The companion will:
+Your minion will:
 
-- Ask about your role and what you want help with
+- Ask about your role and what you need help with
 - Dig deeper into how you actually work
 - Reframe your role at a higher level
 - Show you exactly where AI fits in your workflow
@@ -98,6 +98,7 @@ But AI becomes something else entirely
 when you give it full context, structure, and a clear role.
 
 That's what this file does.
+It turns AI into a minion that actually works for you.
 
 And if that's true — it should belong to everyone.
 
@@ -110,7 +111,7 @@ Free. Open. Yours.
 
 What you're seeing here is a lightweight version of something larger.
 
-This companion is built on a methodology I call **AI Conductor** —
+This minion is built on a methodology I call **AI Conductor** —
 a way of thinking about AI not as a tool, but as an orchestrated system
 that maps how people think, work, and make decisions.
 
@@ -128,7 +129,7 @@ Some people go deeper.
 ## Repo Structure
 
 ```
-ai-companion-wizard/
+ai-minion-wizard/
 ├── README.md               ← you are here
 ├── LICENSE                 ← CC BY-NC 4.0
 ├── CONTRIBUTING.md         ← how to port to other models
